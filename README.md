@@ -19,6 +19,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?HalianRC-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?HalianRC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HalianRC)](https://github.com/HalianRC/github-readme-stats)
             
 <div class="tenor-gif-embed" data-postid="18657810" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/coding-gif-18657810">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>       
           

@@ -1,17 +1,19 @@
-### Olá Galera!! 👋
+<h2>Olá Galera!! 👋</h2>
 <br>
+<p>Meu nome é Halian, sou estudante de Engenharia de Software e estou cursando também Desenvolvimento Full stack. Estou atualmente em transição de carreira para a área de tecnologia, buscando novas oportunidades para aplicar minha paixão por programação e desenvolvimento de software.</p>
 
-Ferramentas e Tecnologias
+
+<h2>Ferramentas e Tecnologias</h2>
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
 </div>
+
 <br>
-<br>
-Contatos
-<br>
+<h2>Contatos</h2>
+
 <br>
 <div>
 <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

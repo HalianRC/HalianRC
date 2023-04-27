@@ -1,6 +1,6 @@
 <h2>Olá Galera!! 👋</h2>
 <br>
-<p>Meu nome é Halian, sou estudante de Engenharia de Software e estou cursando também Desenvolvimento Full stack. Estou atualmente em transição de carreira para a área de tecnologia, buscando novas oportunidades para aplicar minha paixão por programação e desenvolvimento de software.</p>
+<p>Meu nome é Halian, sou estudante de Engenharia de Software e estou cursando também Desenvolvimento Full stack na Kenzie Academy. Estou atualmente em transição de carreira para a área de tecnologia, buscando novas oportunidades para aplicar minha paixão por programação e desenvolvimento de software.</p>
 
 
 <h2>Ferramentas e Tecnologias</h2>

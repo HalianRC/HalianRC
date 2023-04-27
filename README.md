@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**HalianRC/HalianRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## Ferramentas e Tecnologias
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -15,6 +10,13 @@ Here are some ideas to get you started:
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
+
+<!--
+**HalianRC/HalianRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 
 
 - 🔭 I’m currently working on ...

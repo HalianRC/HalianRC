@@ -1,32 +1,16 @@
-<h2>Olá Galera!! 👋</h2>
-<br>
-<p>Meu nome é Halian, sou estudante de Engenharia de Software e estou cursando também Desenvolvimento Full stack na Kenzie Academy. Estou atualmente em transição de carreira para a área de tecnologia, buscando novas oportunidades para aplicar minha paixão por programação e desenvolvimento de software.</p>
+<h1 align="center">Ola 👋, me chamo Halian R Canedo</h1>
+<h3 align="center">Um apaixonado por desenvolvimento Frontend</h3>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=halianrc" alt="halianrc" /></a> </p>
 
 
-<h2>Ferramentas e Tecnologias</h2>
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" />  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" />
-</div>
 
-<br>
-<h2>Contatos</h2>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a> </p>
 
-<br>
-<div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:halianrc@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/halianrc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-<br>
-<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=halianrc&show_icons=true&locale=en&layout=compact" alt="halianrc" /></p>
 
-
- 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halianrc&show_icons=true&locale=en" alt="halianrc" /></p>
  
 
 <!--
